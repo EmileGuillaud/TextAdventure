@@ -78,7 +78,7 @@ let narrativeText = [
     choices: [{ text: "Run home.", nextState: 8 }],
     imgUrl: "./images/boulder.jpg",
   },
-  //7
+  //7-
   {
     header: "You leave the chest alone.",
     description:
