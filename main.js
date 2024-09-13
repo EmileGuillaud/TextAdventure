@@ -75,7 +75,7 @@ let narrativeText = [
     header: "You take the chest.",
     description:
       "As soon as you lift the chest from the pedestal, you hear a loud click, followed by rumbling. a giant boulder crashes through the far wall. You turn around and run as fast as you can, making for the exit.",
-    choices: [{ text: "Start Game Again.", nextState: 0 }],
+    choices: [{ text: "Start Game Again.", nextState: 8 }],
     imgUrl: "./images/boulder.jpg",
   },
   //7
